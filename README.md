@@ -46,10 +46,5 @@ Advanced **Microservices**, **Docker orchestration**, and **Angular** for full-s
 
 ---
 
-## 📊 GitHub Stats:
-![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=haris1433&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haris1433&layout=compact&theme=radical)  
-
----
 
 ⭐ **"Code. Learn. Repeat."**  
